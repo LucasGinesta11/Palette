@@ -13,7 +13,7 @@
             android:id="@+id/image1"
             android:layout_width="match_parent"
             android:layout_height="300dp"
-            android:transitionName="tranphoto"
+            android:transitionName="shared_image"
             android:scaleType="centerCrop"/>
 
 </androidx.cardview.widget.CardView>
